@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Lesson 1</title>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="render.js"></script>
+    <script type="x-shader/x-vertex" src="shader.vs" id="vertexshader">
+    </script>
+    <script type="x-shader/x-fragment" src="shader.fs" id="fragmentshader">
+    </script>
+    <script type='text/javascript' src='glMatrix-0.9.5.min.js'></script>
+  </head>
+  <body>
+    <canvas id='canvas' style="border: none;" width="500" height="500"></canvas>
+    <script type='text/javascript'>
+      $( renderScene );
+    </script>
+
+  </body>
+</html>
