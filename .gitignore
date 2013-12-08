@@ -1,3 +1,5 @@
 Thumbs.db
 *.blend1
 .c9settings.xml
+*.swp
+.DS_Store
