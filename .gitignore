@@ -3,3 +3,4 @@ Thumbs.db
 .c9settings.xml
 *.swp
 .DS_Store
+**/bower_components/

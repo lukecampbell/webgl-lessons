@@ -1,0 +1,21 @@
+{
+  "name": "oceans",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lukecampbell/webgl-lessons",
+  "authors": [
+    "Luke Campbell <luke.s.campbell@gmail.com>"
+  ],
+  "description": "Oceans in THREE.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "bootstrap": "~3.3.4"
+  }
+}
